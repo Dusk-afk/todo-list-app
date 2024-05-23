@@ -4,6 +4,13 @@
 # Todo List App
 A very basic and lightweight todo list app built using [Next.js](https://nextjs.org/)
 
+## Screenshots
+<p float="left">
+  <img src="./assets/1.jpeg" width="405" height="276" />
+  <img src="./assets/2.jpeg" width="405" height="276" />
+  <img src="./assets/3.jpeg" width="405" height="276" />
+</p>
+
 ## Getting Started
 1. Run the development server:
 ```bash
